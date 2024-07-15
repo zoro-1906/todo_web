@@ -10,6 +10,9 @@ def add_todo():
 
 
 st.title("My todo app")
+st.write("This app help in increasing your <b>Productivity</b>",
+         unsafe_allow_html=True)
+
 
 
 for index, todo in enumerate(todos):
