@@ -1,4 +1,4 @@
-
+Project Name: Todo List App with Streamlit
 
 What the project does:
 This project is a simple, interactive todo list web application built using Streamlit. It allows users to add, manage, and mark off tasks in a visually appealing web interface. It tracks your tasks, increases productivity, and dynamically updates the todo list as tasks are completed or added.
